@@ -1,4 +1,4 @@
-# ArcFaceDemo For ArcFace 3.0
+# ArcFaceDemo For ArcFace 2.2
 ArcFace 2.2 的Android Demo
 
 >  该工程的库下载于2019/12/23，一年后活体功能会过期，需要在虹软视觉开放平台重新下载
